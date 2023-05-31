@@ -114,7 +114,23 @@ border: 1px solid;
 /* intro page */
 
 .skill{
-    height: 10px;
-    width: 10px;
+    height: 12px;
+    width: 400px;
     background-color: red;
+}
+.hunderade{
+    width: 300px;
+    
+}
+.fifty{
+    width: 200px;
+}
+.sixty{
+width: 250px;
+}
+ninety{
+    width: 400px;
+}
+.t6{
+    width: 200px;
 }
