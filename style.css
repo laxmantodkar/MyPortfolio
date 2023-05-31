@@ -84,40 +84,29 @@ ul li a {
 }
 
 /* contact css */
-.infocontcat {
-    padding-top: 100px;
+.contactHeader{
+    width: 100%;
+    background-color: #41A4F5;
 }
-
-.infocontcat h1 {
-    text-align: center;
-}
-
-.infocontcat form {
-
-    padding-left: 300px;
-}
-
-.infocontcat form div {
+.sectionHeader{
     display: flex;
     flex-direction: column;
-    font-size: 30px;
-    align-items: start;
-    padding-top: 10px;
 }
-
-.contact input {
-    height: 30px;
-    width: 50%;
-    border: 1px solid;
+.article2{
+    margin: auto;
+    width: 700px;
+    height: 150px;
+    padding: 30px;
+    font-size: 20px;
+    background-color: white;
 }
-
-.infocontcat form div button {
-    border: 1px solid;
-    border-radius: 50px;
-    padding: 5px;
-
+.article2 h3{
+    padding-left: 90px;
+    padding-top: 20px;
 }
-
+.article3{
+    background-color: gold;
+} 
 /* css for blog page */
 .header {
     width: 100%;
