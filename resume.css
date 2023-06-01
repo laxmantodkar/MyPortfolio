@@ -103,12 +103,49 @@ ul{
 }
 .angular{
     height: 10px;
-    width: 250px;
+    width: 450px;
     background-color: beige;
 }
 .angular1{
     height: 10px;
     width: 100px;
     background-color: red;
-
+    position: relative;
+    top: -10px;
+}
+.CSS{
+    height: 10px;
+    width: 100px;
+    background-color: red;
+    position: relative;
+    top: -10px;
+}
+.HTML{
+    height: 10px;
+    width: 100px;
+    background-color: red;
+    position: relative;
+    top: -10px;
+}
+.Jquery{
+    height: 10px;
+    width: 100px;
+    background-color: red;
+    position: relative;
+    top: -10px;
+}
+.JavaScript{
+    height: 10px;
+    width: 100px;
+    background-color: red;
+    position: relative;
+    top: -10px;
+}
+.React
+{
+    height: 10px;
+    width: 100px;
+    background-color: red;
+    position: relative;
+    top: -10px;
 }
