@@ -82,3 +82,67 @@ ul li a {
 .contactbutton {
     margin-left: 10px;
 }
+
+/* intro page */
+.introHeader {
+    display: flex;
+    flex-direction: row;
+    /* height: 355px; */
+    background-color: #41A4F5;
+}
+
+.introImage img {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 30px;
+}
+
+.introAbout {
+    margin-top: 40px;
+}
+
+.introButton button {
+    margin: 20px 0px 0px 100px;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 7px;
+    border-radius: 5px;
+    border: 0px;
+}
+
+.skill {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+
+.skills {
+    width: 350px;
+    height: 300px;
+    background-color: white;
+}
+
+.iconClass {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+}
+
+.iconClass img {
+    background-color: #41A4F5;
+    border-radius: 25px;
+    padding: 8px;
+    position: relative;
+    top: -39px;
+}
+
+.multipleSkill div {
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+}
