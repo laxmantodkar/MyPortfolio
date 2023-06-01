@@ -1,0 +1,114 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.resumeHeader {
+    height: 200px;
+    width: 100%;
+    background-color: #41A4F5;
+}
+
+.resumeHeader h1 {
+    color: white;
+    padding: 13px 0px 0px 90px
+}
+
+.resume {
+    position: absolute;
+    width: 80%;
+    height: 1000px;
+    margin-left: 10%;
+    background-color: wheat;
+    top: 70px;
+}
+
+.headerResume {
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    height: 200px;
+}
+
+.resumeImage img {
+    width: 200px;
+    height: 200px;
+}
+
+.myName div {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.myName {
+    margin: 30px 0px 0px 250px;
+}
+
+.color {
+    color: white;
+    text-decoration: none;
+}
+
+.icon-sm {
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.resumeNav {
+    margin-left: 50px;
+    width: 90%;
+    height: 500px;
+}
+
+hr.line {
+    border: 1px solid black;
+    margin: 10px 0px 0px;
+}
+
+.artcle {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.workExperience {
+    height: 500px;
+    width: 630px;
+  
+
+}
+.skillTools{
+    height: 500px;
+    width: 250px;
+    
+}
+ul{
+   margin: 20px 0px 0px 40px;
+}
+.technologies{
+    display: flex;
+    flex-direction: row;
+}
+.technologies div{
+    border: 1px solid black;
+    margin: 10px;
+    padding: 5px;
+    background-color: beige;
+    border-radius: 12px;
+}
+.frontend{
+    font-size: 18px;
+}
+.angular{
+    height: 10px;
+    width: 250px;
+    background-color: beige;
+}
+.angular1{
+    height: 10px;
+    width: 100px;
+    background-color: red;
+
+}

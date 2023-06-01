@@ -138,3 +138,9 @@ ul li a {
     padding: 30px;
     background-color: white;
 }
+.icon-sm{
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
